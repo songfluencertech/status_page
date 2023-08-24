@@ -23,6 +23,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://genni-assets.s3.amazonaws.com/genni_logo_square.png
   name: Genni
+  status-website:
+    theme: light
   introTitle: "Monitors for Genni"
   introMessage: This is an example of a status page for our services.
   navbar:
