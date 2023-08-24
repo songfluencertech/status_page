@@ -9,6 +9,10 @@ sites:
     url: https://api.genni.com/
   - name: Reports API
     url: https://api.songfluencer.me/
+  - name: Genni Creator Portal
+    url: https://www.genni.com/
+  - name: Genni Connected Partner Portal
+    url: https://portal.genni.com/sign-in
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
