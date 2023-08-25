@@ -4,7 +4,7 @@ repo: status_page # The name of this repository
 
 sites:
   - name: Genni Marketing API
-    url: $GENNIMARKETINGAPI
+    url: https://portalapi.genni.com/api/v1/health-check
   - name: Genni Creator API
     url: https://api.genni.com/
   - name: Reports API
@@ -13,8 +13,6 @@ sites:
     url: https://www.genni.com/
   - name: Genni Connected Partner Portal
     url: https://portal.genni.com/sign-in
-  - name: Test Broken Site
-    url: https://geaegaeageagawe.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
