@@ -4,7 +4,7 @@ repo: status_page # The name of this repository
 
 sites:
   - name: Genni Marketing API
-    url: https://portalapi.genni.com/api/v1/health-check
+    url: $GENNIMARKETINGAPI
   - name: Genni Creator API
     url: https://api.genni.com/
   - name: Reports API
