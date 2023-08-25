@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://genni-assets.s3.amazonaws.com/genni_logo_square.png
   name: Genni
   theme: light
-  logoUrl: https://genni-assets.s3.amazonaws.com/GenniLogo.svg
+  faviconSvg: https://genni-assets.s3.amazonaws.com/GenniLogo.svg
   introTitle: "Monitors for Genni"
   introMessage: This is an example of a status page for our services.
   navbar:
