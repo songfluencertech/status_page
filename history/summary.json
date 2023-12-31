@@ -22,7 +22,7 @@
     "url": "https://api.genni.com/",
     "icon": "https://icons.duckduckgo.com/ip3/api.genni.com.ico",
     "slug": "genni-creator-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 236,
     "timeMonth": 227,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-31": 0
+    }
   },
   {
     "name": "Reports API",
