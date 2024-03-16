@@ -1,7 +1,7 @@
 url: https://portalapi.genni.com/api/v1/health-check
 status: up
 code: 200
-responseTime: 106
-lastUpdated: 2024-03-15T23:12:27.992Z
+responseTime: 300
+lastUpdated: 2024-03-16T23:13:37.630Z
 startTime: 2023-08-24T20:37:55.464Z
 generator: Upptime <https://github.com/upptime/upptime>
